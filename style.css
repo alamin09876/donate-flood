@@ -1,0 +1,246 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.header-section{
+    background-image: url(img/donation9.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 80vh;
+}
+.first-content{
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding-top: 120px;
+    
+}
+.first-content h1{
+    font-size: 60px;
+}
+.first-content p{
+    font-size: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   
+}
+.first-content a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid tomato;
+    margin-bottom: 300px;
+    background-color:tomato;
+    color: white;
+    border-radius: 7px;
+}
+.main-section-content{
+    text-align: center;
+    margin-top:100px;
+}
+.main-section-content h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.main-section-content p{
+    color: gray;
+    margin-bottom:100px;
+}
+.main-section-one{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.main-section-one-content h1{
+    display: inline;
+    text-align: center;
+    padding:40px 40px;
+    border-radius: 7px;
+    margin-right: 10px;
+    background-color:rgb(252, 248, 248);
+    
+}
+#one{
+    border: 2px solid tomato;
+    background-color: rgb(247, 239, 238);
+    color: tomato;
+}
+.input-part input{
+    text-align: center;
+    outline: 0;
+    border:0;
+    padding:10px 40px;
+    width:50%;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 50px;
+}
+.input-part a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid tomato;
+    margin-bottom: 300px;
+    background-color:tomato;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+    
+    margin-left: 625px;
+    margin-right: 300px;
+}
+.content-six{
+    display:flex;
+    width:90%;
+}
+.content-six-one{
+    width:28%;
+    margin-left:200px;
+    background-color:azure;
+    margin-right: 30px;
+    padding-left:30px;
+    padding-top: 50px;
+}
+.content-six-one img{
+    padding-bottom: 20px;
+}
+.content-six-one h2{
+    padding-bottom: 20px;
+}
+.content-six-one p{
+    padding-bottom: 50px;
+}
+
+
+
+.content-six-two{
+    width:28%;
+    
+    background-color:beige;
+    margin-right: 30px;
+    padding-left:30px;
+    padding-top: 50px;
+}
+.content-six-two img{
+    padding-bottom: 20px;
+}
+.content-six-two h2{
+    padding-bottom: 20px;
+}
+.content-six-two p{
+    padding-bottom: 50px;
+}
+.content-six-three{
+    width:28%;
+    
+    background-color:bisque;
+    margin-right: 30px;
+    padding-left:30px;
+    padding-top: 50px;
+}
+.content-six-three img{
+    padding-bottom: 20px;
+}
+.content-six-three h2{
+    padding-bottom: 20px;
+}
+.content-six-three p{
+    padding-bottom: 50px;
+}
+.content-seven{
+    display: flex;
+    width: 90%;
+    
+    margin-top:50px;
+}
+.content-seven-one{
+    width: 33.33%;
+    margin-left: 200px;
+}
+.content-seven-one h1{
+    font-size:20px;
+    margin-top: 30px;
+}
+.content-seven-one p{
+    font-size:15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content-seven-one a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid tomato;
+    
+    background-color:tomato;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+}
+.content-seven-two img{ 
+    width: 93%;
+    
+}
+.content-seven-three{
+    width: 33.33%;
+    
+}
+.content-seven-three h1{
+    font-size:20px;
+    margin-top: 30px;
+}
+.content-seven-three p{
+    font-size:15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content-seven-three a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid tomato;
+    
+    background-color:tomato;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+}
+.update-class{
+    background-color:bisque;
+    width: 40%;
+    margin-left: 341px;
+    padding-top: 90px;
+    padding-left: 181px;
+    padding-bottom: 56px;
+}
+.update-class input{
+    width:28%; 
+    padding:10px 40px;
+    
+    border: 1px solid gray;
+    margin-bottom: 50px;
+    outline: 0px;
+    border: 0px;
+    color:white;
+}
+.update-class button{
+    padding:10px 25px;
+    background-color:brown;
+    border: none;
+    color:white;
+    margin-left: -4px;
+}
+.footer-content{
+    text-align:center;
+    margin-top:100px;
+    background-color: black;
+    color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.footer-content h1{
+    color: tomato;
+    padding-bottom:10px;
+}
+.footer-content p{
+    color: gray;
+}
